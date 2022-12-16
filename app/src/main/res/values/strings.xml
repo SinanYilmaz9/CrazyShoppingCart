@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+
+    <string name="score">score：</string>
+    <string name="hand">You can use gestures to control the movement of the shopping cart.</string>
+    <string name="startgame">Start</string>
+    <string name="gameover">Game Over</string>
+    <string name="scorestring">score</string>
+    <string name="restart">Restart</string>
+    <string name="time">time：</string>
+    <string name="not_start_camera">Not start camera</string>
+</resources>
